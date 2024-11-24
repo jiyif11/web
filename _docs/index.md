@@ -1,50 +1,26 @@
 ---
-title: Welcome
+title: 6G 边缘云
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
 
-## Getting started
+### 产品简介:
+![](https://www.opendc.cn/assets/images/info1.png)
+![](https://www.opendc.cn/assets/images/info2.png)
+我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。
 
-[GitHub Pages](https://pages.github.com) can automatically generate and serve the website for you.
-Let's say you have a username/organisation `my-org` and project `my-proj`; if you locate Jekyll source under `docs` folder of master branch in your repo `github.com/my-org/my-proj`, the website will be served on `my-org.github.io/my-proj`.
-The good thing about coupling your documentation with the source repo is, whenever you merge features with regarding content to master branch, it will also be published on the webpage instantly.
+采用0.5米智能化、集成化设计的便携式自动卫星通信设备做5G流量上行。对接业主的中心云，实现私有业务数据的5G网络快速覆盖。
+模块化的架构和易插拔的组件使该系统可以在几分钟内完全组装。
+通过 Ku 和 Ka 波段套件，该系统还可现场升级到 Ka 波段。
+适合于诸如石油和天然气勘探、灾难管理、急救通讯等领域。
+![](https://www.opendc.cn/assets/images/satellite.png)
+------------
 
-1. Just [download the source](https://github.com/aksakalli/jekyll-doc-theme/archive/gh-pages.zip) into your repo under `docs` folder.
-2. Edit site settings in  `_config.yml` file according to your project. !!! `baseurl` should be your website's relative URI like `/my-proj` !!!
-3. Replace `favicon.ico` and `assets/img/logonav.png` with your own logo.
 
-## Writing content
+### 产品特性：
 
-### Docs
-
-Docs are [collections](https://jekyllrb.com/docs/collections/) of pages stored under `_docs` folder. To create a new page:
-
-**1.** Create a new Markdown as `_docs/my-page.md` and write [front matter](https://jekyllrb.com/docs/frontmatter/) & content such as:
-
-```
----
-title: My Page
-permalink: /docs/my-page/
----
-
-Hello World!
-```
-
-**2.** Add the pagename to `_data/docs.yml` file in order to list in docs navigation panel:
-
-```
-- title: My Group Title
-  docs:
-  - my-page
-```
-
-### Blog posts
-
-Add a new Markdown file such as `2017-05-09-my-post.md` and write the content similar to other post examples.
-
-### Pages
-
-The homepage is located under `index.html` file. You can change the content or design completely different welcome page for your taste. (You can use [bootstrap components](http://getbootstrap.com/components/))
-
-In order to add a new page, create a new `.html` or `.md` (markdown) file under root directory and link it in `_includes/topnav.html`.
+- 采用商用级的5G基站和定制的高可用边缘云硬件
+- 碳纤维反射面拼瓣设计，组装方便、分解迅速
+- 模块化架构，简洁实现5G、4G的Ku 和 Ka 波段切换和融合通信
+- 独创的对星算法和一流的伺服控制系统，确保快速精确对星
+- 组装速度快，单人从开箱到6G业务开通只需 5 分钟，无需任何工具
