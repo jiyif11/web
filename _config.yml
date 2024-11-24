@@ -1,15 +1,15 @@
 # Site settings
-title: Jekyll Doc Theme
-email: your-email@domain.com
+title: 无人区科技
+email: sales@nomanland.tech
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-lang: en-US
+  本公司致力于3GPP R16场景的实现，
+  提供可商用的5G产品，具体请见产品介绍。
+lang: zh-CN
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://aksakalli.github.io/jekyll-doc-theme # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+url: https://www.opendc.cn # the base hostname & protocol for your site
+git_address: https://github.com/jiyif11/web
+git_edit_address: https://github.com/jiyif11/web/blob/gh-pages
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
