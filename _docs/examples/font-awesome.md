@@ -1,6 +1,6 @@
 ---
 title: SINOPEC
-permalink: /
+permalink: /docs/SINOPEC/
 ---
 
-<img src="assets/img/SINOPEC.jpg">
+<img src="https://www.minidc.cf/assets/img/SINOPEC.jpg">
