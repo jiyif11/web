@@ -3,5 +3,4 @@ title: Tesla
 permalink: /docs/Tesla/
 ---
 
-
-<img src="assets/img/Tesla.jpg">
+<img src="https://www.minidc.cf/assets/img/Tesla.jpg">
