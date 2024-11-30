@@ -3,4 +3,4 @@ title: IQIYI
 permalink: /docs/IQIYI/
 ---
 
-<img src="https://www.minidc.cf/assets/img/IQIYI.jpg">
+<img src="https://www.opendc.cn/assets/img/IQIYI.jpg">

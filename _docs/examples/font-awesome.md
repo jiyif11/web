@@ -3,4 +3,4 @@ title: SINOPEC
 permalink: /docs/SINOPEC/
 ---
 
-<img src="https://www.minidc.cf/assets/img/SINOPEC.jpg">
+<img src="https://www.opendc.cn/assets/img/SINOPEC.jpg">
