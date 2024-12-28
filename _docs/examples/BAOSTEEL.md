@@ -3,4 +3,4 @@ title: BAOSTEEL
 permalink: /docs/BAOSTEEL/
 ---
 
-<img src="https://www.opendc.cn/assets/img/BAOSTEEL.jpg">
+<img src="https://www.nomanland.tech/assets/img/BAOSTEEL.jpg">

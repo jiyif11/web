@@ -3,4 +3,4 @@ title: PINGMEI
 permalink: /docs/PINGMEI/
 ---
 
-<img src="https://www.opendc.cn/assets/img/PINGMEI.jpg">
+<img src="https://www.nomanland.tech/assets/img/PINGMEI.jpg">

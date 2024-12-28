@@ -5,15 +5,15 @@ redirect_from: /docs/index.html
 ---
 
 ### 产品简介:
-![](https://www.opendc.cn/assets/img/info1.png)
-![](https://www.opendc.cn/assets/img/info2.png)
+![](https://www.nomanland.tech/assets/img/info1.png)
+![](https://www.nomanland.tech/assets/img/info2.png)
 我司6G边缘云可以在油轮，矿山，变电站，钻井平台，野外基地，工地，森林快速实现5G覆盖能力。
 
 采用0.5米智能化、集成化设计的便携式自动卫星通信设备做5G流量上行。对接业主的中心云，实现私有业务数据的5G网络快速覆盖。
 模块化的架构和易插拔的组件使该系统可以在几分钟内完全组装。
 通过 Ku 和 Ka 波段套件，该系统还可现场升级到 Ka 波段。
 适合于诸如石油和天然气勘探、灾难管理、急救通讯等领域。
-![](https://www.opendc.cn/assets/img/satellite.png)
+![](https://www.nomanland.tech/assets/img/satellite.png)
 ------------
 
 

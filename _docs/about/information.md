@@ -11,4 +11,4 @@ permalink: /docs/information/
 <a href="mailto:sales@nomanland.tech" class="btn btn-primary">sales@nomanland.tech</a>
 
 ### 微信二维码
-![](https://www.opendc.cn/assets/img/wechat.jpg)
+![](https://www.nomanland.tech/assets/img/wechat.jpg)

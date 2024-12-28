@@ -3,4 +3,4 @@ title: CRCC
 permalink: /docs/CRCC/
 ---
 
-<img src="https://www.opendc.cn/assets/img/CRCC.jpg">
+<img src="https://www.nomanland.tech/assets/img/CRCC.jpg">

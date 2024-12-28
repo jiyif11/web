@@ -7,7 +7,7 @@ description: >
 lang: zh-CN
 
 baseurl: "/jekyll-doc-theme" # the subpath of your site, e.g. /blog/
-url: https://www.opendc.cn # the base hostname & protocol for your site
+url: https://www.nomanland.tech # the base hostname & protocol for your site
 git_address: https://github.com/jiyif11/web
 git_edit_address: https://github.com/jiyif11/web/blob/gh-pages
 

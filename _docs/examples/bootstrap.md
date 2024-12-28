@@ -4,4 +4,4 @@ permalink: /docs/AIRBUS/
 ---
 
 
-<img src="https://www.opendc.cn/assets/img/AIRBUS.jpg">
+<img src="https://www.nomanland.tech/assets/img/AIRBUS.jpg">

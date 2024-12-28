@@ -3,4 +3,4 @@ title: ALIYUN
 permalink: /docs/ALIYUN/
 ---
 
-<img src="https://www.opendc.cn/assets/img/ALIYUN.jpg">
+<img src="https://www.nomanland.tech/assets/img/ALIYUN.jpg">
